@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def posts#index
+  def　index
   end
 end
